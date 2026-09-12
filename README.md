@@ -1,53 +1,43 @@
-# Hi 👋, I'm Jyoti Kumari
+<h1 align="center">Hi 👋, I'm Jyoti Kumari</h1>
 
-### 💻 B.Tech CSE (AI/ML) Student | Aspiring Developer
+<h3 align="center">
+💻 B.Tech CSE (AI/ML) Student | 🤖 AI & ML Enthusiast | 🌐 Aspiring Developer
+</h3>
 
-Welcome to my GitHub profile! 🚀
-
-I'm a Computer Science student interested in Artificial Intelligence,
-Machine Learning and Web Development.
-
-### 🛠️ Currently Learning
-
-- 🐍 Python
-- ☕ Java
-- 🌐 HTML, CSS & JavaScript
-- ⚛️ React
-- 🗄️ SQL
-- 🤖 Machine Learning
-
-### 🚀 What I'm Working On
-
-- 🤖 AI/ML projects
-- 🌐 Web development projects
-- 📊 Data and Machine Learning projects
-- 💡 Real-world college projects
-
-### 🎯 My Goal
-
-To continuously learn, build projects and become a skilled
-software developer and AI/ML engineer.
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!+🚀;Learning+AI+%26+Machine+Learning+🤖;Building+Real-World+Projects+💻;Always+Learning%2C+Always+Building+🌱" />
+</p>
 
 ---
 
-### 📫 Connect With Me
+## 👩‍💻 About Me
 
-Thanks for visiting my profile! 😊
+- 🎓 B.Tech student in **Computer Science & Engineering (AI/ML)**
+- 🤖 Interested in **Artificial Intelligence & Machine Learning**
+- 💻 Learning **Python, Java, JavaScript & React**
+- 🗄️ Exploring **SQL & Data Science**
+- 🚀 Building practical and real-world projects
+- 🌱 Currently improving my programming and development skills
+- 🎯 Goal: Become a skilled **Software Developer & AI/ML Engineer**
 
-⭐ Feel free to explore my repositories and follow my learning journey.
+---
 
-<!--
-**jyotikumari-tech/jyotikumari-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Languages & Tools
 
-Here are some ideas to get you started:
+<p align="left">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css,react,git,github,mysql,vscode" />
+
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+```text
+🤖 Machine Learning
+🐍 Python
+⚛️ React
+🌐 Web Development
+🗄️ SQL
+📊 Data Analysis
