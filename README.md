@@ -47,12 +47,22 @@
 
 ---
 
+
+### Step 2 — Paste this instead
+
+```markdown
 ## 🌱 Currently Learning
 
-```text
-🤖 Machine Learning
-🐍 Python
-⚛️ React
-🌐 Web Development
-🗄️ SQL
-📊 Data Analysis
+<p align="left">
+
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Web%20Development-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Analysis-013243?style=for-the-badge&logo=pandas&logoColor=white" />
+
+</p>
