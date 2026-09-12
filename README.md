@@ -7,6 +7,7 @@
 
 ---
 
+
 ## 👩‍💻 About Me
 
 - 🎓 B.Tech student in **Computer Science & Engineering (AI/ML)**
@@ -18,8 +19,6 @@
 - 🎯 Goal: Become a skilled **Software Developer & AI/ML Engineer**
 
 ---
-
-## 🛠️ Languages & Tools
 
 ## 🛠️ Languages & Tools
 
