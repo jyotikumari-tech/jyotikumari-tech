@@ -28,12 +28,6 @@ Machine Learning and Web Development.
 To continuously learn, build projects and become a skilled
 software developer and AI/ML engineer.
 
-### 📌 Featured Projects
-
-- 🐍 Python Mini Projects
-- 🤖 Machine Learning Projects
-- 🌐 React Dashboard
-- 🚀 College & Hackathon Projects
 
 ---
 
