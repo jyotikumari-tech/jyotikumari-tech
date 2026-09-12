@@ -4,9 +4,6 @@
 💻 B.Tech CSE (AI/ML) Student | 🤖 AI & ML Enthusiast | 🌐 Aspiring Developer
 </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!+🚀;Learning+AI+%26+Machine+Learning+🤖;Building+Real-World+Projects+💻;Always+Learning%2C+Always+Building+🌱" />
-</p>
 
 ---
 
