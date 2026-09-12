@@ -48,9 +48,6 @@
 ---
 
 
-### Step 2 — Paste this instead
-
-```markdown
 ## 🌱 Currently Learning
 
 <p align="left">
